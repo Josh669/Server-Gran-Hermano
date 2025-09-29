@@ -1,0 +1,28 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 369D-7391
+
+ Directorio de C:\Users\jorge\OneDrive\Desktop\world - Copy
+
+09/28/2025  10:08 PM    <DIR>          .
+09/28/2025  10:04 PM    <DIR>          ..
+09/27/2025  10:11 AM    <DIR>          advancements
+09/22/2025  10:01 PM    <DIR>          betterdeserttemples
+09/27/2025  10:11 AM    <DIR>          data
+08/10/2025  09:02 PM    <DIR>          datapacks
+09/27/2025  10:11 AM    <DIR>          deaths
+09/27/2025  10:11 AM    <DIR>          DIM-1
+09/27/2025  10:11 AM    <DIR>          DIM1
+09/27/2025  10:11 AM    <DIR>          dimensions
+09/27/2025  10:11 AM    <DIR>          entities
+09/27/2025  01:39 AM           174,417 level.dat
+09/27/2025  01:34 AM           174,413 level.dat_old
+09/28/2025  10:08 PM                 0 listado.txt
+09/27/2025  10:11 AM    <DIR>          playerdata
+09/27/2025  10:11 AM    <DIR>          poi
+09/27/2025  10:11 AM    <DIR>          region
+09/27/2025  10:11 AM    <DIR>          serverconfig
+09/26/2025  08:28 PM                 3 session.lock
+09/27/2025  10:11 AM    <DIR>          stats
+09/22/2025  10:01 PM                13 xaeromap.txt
+               5 archivos        348,846 bytes
+              16 dirs  28,940,333,056 bytes libres
